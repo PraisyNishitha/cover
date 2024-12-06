@@ -144,7 +144,7 @@ Publish the website in the LocalHost.
             </div>
         </div>
     </body>
-</hgitml>
+</html>
 ```
 ## OUTPUT:
 ![alt text](<Screenshot 2024-12-06 105450.png>)
